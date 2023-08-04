@@ -1,0 +1,37 @@
+# taking from: https://github.com/equinor/data-science-template/blob/master/.gitignore
+# data
+# *.csv
+# *.xlsx
+.parquet
+
+# virtualenv
+.venv
+venv/
+ENV/
+
+# Jupyter Notebook
+.ipynb_checkpoints
+
+# Distribution / packaging
+.Python
+env/
+build/
+develop-eggs/
+dist/
+downloads/
+eggs/
+.eggs/
+lib/
+lib64/
+parts/
+sdist/
+var/
+wheels/
+*.egg-info/
+.installed.cfg
+*.egg
+.DS_Store
+fhvhv_tripdata_2022-05.parquet
+fhvhv_tripdata_2021-11.parquet
+fhvhv_tripdata_2022-02.parquet
+fhvhv_tripdata_2022-08.parquet
