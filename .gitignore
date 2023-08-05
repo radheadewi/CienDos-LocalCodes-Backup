@@ -1,1 +1,9 @@
 .parquet
+BaCoDaAll.parquet
+ScoresABC1C2DE.parquet
+SicCodesAndStructure.parquet
+feature-eng-data/16_features.xlsx
+feature-eng-data/companies_table.csv
+feature-eng-data/scores_table_in_company.csv
+feature-eng-data/ScoresABC1C2DE.xlsx
+feature-eng-data/companies_tablev2.parquet
